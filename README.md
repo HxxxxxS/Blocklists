@@ -2,7 +2,7 @@
 Mirrors of some uBlock blocklist 
 
 ## Suggested 3rd-party filter lists(ordered by # of filters):
-
+Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/list-of-lists.txt)
 * https://hosts-file.net/emd.txt - 198132
 * https://www.fanboy.co.nz/r/fanboy-ultimate.txt - 128020
 * https://adguard.com/en/filter-rules.html?id=2 - 90064
