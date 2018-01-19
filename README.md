@@ -47,22 +47,17 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts - 710
 * https://adguard.com/en/filter-rules.html?id=7 - 662
 * https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt - 567
-* https://github.com/HxxxxxS/Blocklists/raw/master/lists/Abine-DNT.txt - 217
 * https://www.fanboy.co.nz/fanboy-swedish.txt - 209
 * https://easylist-downloads.adblockplus.org/adwarefilters.txt - 178
 * https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt - 133
 * https://adguard.com/en/filter-rules.html?id=5 - 111
-* https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt - 87
 * https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt - 61
 * https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt - 43
 * https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt - 34
 
-## Mirrors:
-* [lists/CYBERCRiME.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/CYBERCRiME.txt) -> https://cybercrime-tracker.net/all.php​​​​​ (2018-01-19)
-* [lists/Airelle-hrsk.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Airelle-hrsk.txt) -> http://rlwpx.free.fr/WPFF/hosts.htm (2018-01-19)
-* [lists/Google-Inbox-Pixelblock.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt) -> From a Chrome ext (2017-03-04)
-* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt) -> My list of assorted filters (2018-01-19)
+## Custom:
+* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2018-01-19)
+* [lists/Google-Inbox-Pixelblock.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt): Blocks some known pixel.gif-trackers from Google Inbox. From a Chrome ext (2017-03-04)
 * [lists/Abine-DNT.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Abine-DNT.txt) -> A list from the Abine Inc. Do-Not-Track plugin (2016-09-17)
-* [lists/DShield.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/DShield.txt) -> https://www.dshield.org/feeds/suspiciousdomains_Low.txt (2017-03-12)
 
 See also https://wally3k.github.io/
