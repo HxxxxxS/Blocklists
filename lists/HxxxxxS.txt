@@ -1,0 +1,47 @@
+! Title: HxxxxxS' Assorted Filters 
+! Last Modified: 2018-01-19
+! Origin: https://github.com/HxxxxxS/Blocklists
+! Homepage: https://github.com/HxxxxxS/Blocklists
+! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
+
+www.xtremetop100.com###middleawww.whosampled.com###adb-inner
+
+www.whosampled.com###adb-wrapper
+www.whosampled.com###adb-bg
+
+vg.no/fluepapir
+e24.no/fluepapir
+vg.no##script:contains(__AB__)
+e24.no##script:contains(__AB__)
+1.vgc.no/vgnett-prod/js/engagement-tracker.js
+vg.no###ad-topboard
+vg.no###ad-smartboard_^
+vg.no##a[href*="/annonsorinnhold/"]
+vg.no##a[href*="vektklubb.no"
+www.vg.no###pluss-teaser
+www.vg.no##.ad
+www.vg.no##.partner-studio
+||vg.tns-cs.net^
+||click.vgnett.no^
+
+||godt.no/embed/
+
+||cloudfront.net/autotracker
+||js.revsci.net^
+||js-agent.newrelic.com^
+/xtcore_
+||acdn.adnxs.com^
+||js-agent.newrelic.com^
+
+@@||hybel.no/media/ad_pictures/*$image,first-party
+ 
+www.aftenposten.no##.ad
+www.aftenposten.no##.oca
+www.aftenposten.no##.non-subscriber-stripe
+
+www.dagbladet.no##.content-adunit
+www.dagbladet.no##.native-advertisement
+www.dagbladet.no##.hide-for-print
+||ocacache-front.schibsted.tech/realestate.htm$subdocument
+||media.dbstatic.no/db-plus-promo/index.html$subdocument
+www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
