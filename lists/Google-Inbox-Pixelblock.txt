@@ -1,0 +1,84 @@
+! Title: PixelBlock rules for Google Inbox
+! Last modified: 2017-03-04
+! Description: Blocks known tracking pixels in emails on the inbox.google.com domain.  
+! Origin: https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem
+! Homepage: https://github.com/HxxxxxS/Blocklists
+! Update: https://github.com/HxxxxxS/Blocklists/lists/Google-Inbox-Pixelblock.txt
+
+
+! PixelBlock Sidekick
+||t.signaux^$script,image,domain=inbox.google.com
+||getsidekick.com^$script,image,domain=inbox.google.com
+||t.senal^$script,image,domain=inbox.google.com
+||t.sidekickopen^$script,image,domain=inbox.google.com
+||t.sigopn^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Banana Tag
+||bl-1.com^$script,image,domain=inbox.google.com
+||bananatag.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Boomerang
+||mailstat.us/tr^$script,image,domain=inbox.google.com
+||boomeranggmail.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Cirrus Inisght
+||cirrusinsight.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Yesware
+||yesware.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Yesware
+||yesware.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Streak
+||mailfoogae.appspot.com^$script,image,domain=inbox.google.com
+||streak.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock LaunchBit
+||launchbit.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock MailChimp
+||list-manage.com/track^$script,image,domain=inbox.google.com
+||mailchimp.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Postmark
+||cmail1.com/t^$script,image,domain=inbox.google.com
+||postmarkapp.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock iContact
+||click.icptrack.com/icp/^$script,image,domain=inbox.google.com
+||icontact.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Infusionsoft
+||infusionsoft.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Intercom
+||intercom.io^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Mandrill
+||mandrillapp.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Hubspot
+||t.hsms06.com^$script,image,domain=inbox.google.com
+||hubspot.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock RelateIQ
+||relateiq.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock RJ Metrics
+||rjmetrics.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Mixpanel
+||mixpanel.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Front App
+||frontapp.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Mailtrack.io
+||mailtrack.io^$script,image,domain=inbox.google.com
+ 
+! PixelBlock ToutApp
+||toutapp.com^$script,image,domain=inbox.google.com
+ 
+! PixelBlock Outreach
+||outreach.io^$script,image,domain=inbox.google.com
