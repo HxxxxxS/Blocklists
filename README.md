@@ -15,7 +15,7 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt - 33796
 * https://easylist-downloads.adblockplus.org/bitblock.txt - 27345
 * https://v.firebog.net/hosts/Shalla-mal.txt - 19672
-* https://easylist-downloads.adblockplus.org/malwaredomains_full.txt - 18479
+* https://easylist-downloads.adblockplus.org/malwaredomains_full.txt - 18255
 * https://adguard.com/en/filter-rules.html?id=15 - 17467
 * https://v.firebog.net/hosts/AdguardDNS.txt - 16190
 * https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt - 12578
@@ -24,8 +24,7 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/ - 11237
 * https://adguard.com/en/filter-rules.html?id=6 - 11146
 * https://v.firebog.net/hosts/Easylist.txt - 10647
-* https://www.fanboy.co.nz/fanboy-cookiemonster.txt - 8263
-* https://openphish.com/feed.txt - 7150
+* https://openphish.com/feed.txt - 7151
 * https://raw.githubusercontent.com/vokins/yhosts/master/hosts - 6912
 * https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt - 6732
 * https://adguard.com/en/filter-rules.html?id=4 - 5692
@@ -33,11 +32,8 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/all.php.txt - 3622
 * https://www.dshield.org/feeds/suspiciousdomains_Low.txt - 3500
 * https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt - 3204
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts - 2948
 * https://xuhaiyang1234.gitlab.io/AAK-Cont/dist/aak-cont-list-ubo.txt - 2785
 * https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt - 2752
-* https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt - 2703
-* https://adguard.com/en/filter-rules.html?id=10 - 2398
 * https://v.firebog.net/hosts/Prigent-Malware.txt - 2293
 * https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt - 2179
 * https://www.fanboy.co.nz/fanboy-korean.txt - 2051
@@ -48,7 +44,6 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/hosts.txt - 1408
 * https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt - 1163
 * https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt - 1130
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts - 1108
 * https://v.firebog.net/hosts/Prigent-Ads.txt - 1049
 * https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt - 862
 * https://adguard.com/en/filter-rules.html?id=12 - 809
@@ -61,15 +56,10 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://www.fanboy.co.nz/fanboy-swedish.txt - 209
 * https://v.firebog.net/hosts/static/w3kbl.txt - 192
 * https://easylist-downloads.adblockplus.org/adwarefilters.txt - 178
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts - 154
 * https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt - 133
 * https://adguard.com/en/filter-rules.html?id=5 - 111
 * https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt - 61
 * https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt - 43
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts - 39
-* https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt - 34
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts - 11
-* https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts - 4
 
 ## Custom:
 * [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2018-01-19)
