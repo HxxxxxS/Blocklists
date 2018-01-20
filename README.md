@@ -1,5 +1,5 @@
 # Blocklists
-Mirrors of some uBlock blocklist 
+My curation of uBlock blocklist 
 
 ## Suggested 3rd-party filter lists(ordered by # of filters):
 Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/list-of-lists.txt) (2018-01-20)
