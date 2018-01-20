@@ -2,7 +2,7 @@
 My curation of uBlock blocklist 
 
 ## Suggested 3rd-party filter lists(ordered by # of filters):
-Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/list-of-lists.txt) (2018-01-20)
+Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/list-of-lists.txt)
 * https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt - 296643
 * https://hosts-file.net/emd.txt - 198131
 * https://www.fanboy.co.nz/r/fanboy-ultimate.txt - 128424
