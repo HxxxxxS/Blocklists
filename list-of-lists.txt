@@ -1,6 +1,3 @@
-
-
-
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt
 https://hosts-file.net/emd.txt
 https://www.fanboy.co.nz/r/fanboy-ultimate.txt
