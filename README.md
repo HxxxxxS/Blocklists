@@ -36,7 +36,6 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://mirror1.malwaredomains.com/files/immortal_domains.txt - 3204
 * https://xuhaiyang1234.gitlab.io/AAK-Cont/dist/aak-cont-list-ubo.txt - 2785
 * https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt - 2752
-* https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts - 2639
 * https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt - 2179
 * https://www.fanboy.co.nz/fanboy-korean.txt - 2051
 * https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt - 2046

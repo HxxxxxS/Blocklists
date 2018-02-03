@@ -31,7 +31,6 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://xuhaiyang1234.gitlab.io/AAK-Cont/dist/aak-cont-list-ubo.txt
 https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://www.fanboy.co.nz/fanboy-korean.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
