@@ -45,3 +45,5 @@ www.dagbladet.no##.hide-for-print
 ||ocacache-front.schibsted.tech/realestate.htm$subdocument
 ||media.dbstatic.no/db-plus-promo/index.html$subdocument
 www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
+
+*##script:inject(bab-defuser.js)
