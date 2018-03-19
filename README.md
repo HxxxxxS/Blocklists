@@ -64,7 +64,7 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 
 ## Custom:
 These are not included in the above list.
-* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2018-01-19)
+* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2018-03-20)
 * [lists/Google-Inbox-Pixelblock.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt): Blocks some known pixel.gif-trackers from Google Inbox. From a Chrome ext (2017-03-04)
 * [lists/Abine-DNT.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Abine-DNT.txt) -> A list from the Abine Inc. Do-Not-Track plugin (2016-09-17)
 
