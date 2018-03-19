@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2018-01-19
+! Last Modified: 2018-03-20
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -47,3 +47,5 @@ www.dagbladet.no##.hide-for-print
 www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 
 *##script:inject(bab-defuser.js)
+
+||*.livechatinc.com/tracking.js$script
