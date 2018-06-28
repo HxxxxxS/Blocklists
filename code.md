@@ -26,24 +26,22 @@ console.log(o)
 items = jQuery('.groupEntry[data-groupkey="custom"] ul.listEntries li')
 
 output = []
+out = ""
 
 for(i=0;i<items.length;i++){
   item = items[i]
   if( !$(item).hasClass('obsolete') ){
-    output.push( [ parseInt($(item).find('.counts')[0].innerHTML.split(' out of ')[1].replace(',','')) ,$(item).attr('data-listkey') ] )
+    output.push( [ parseInt($(item).find('.counts')[0].innerHTML.split(' out of ')[0].replace(',','')) ,$(item).attr('data-listkey') ] )
   }
 }
 output.sort(function(a,b) {
     return a[0] - b[0];
 });
 
-
-out = "\n\n\n"
-
 for(i=output.length-1;i>-1;i--){
-it = output[i]
-out+="* "+it[1]+" - "+it[0]+"\n"
+  it = output[i]
+  out+="* "+it[1]+"\n"
 }
 
-console.log(out+"\n\n")
+console.log(out)
 ```

@@ -49,7 +49,6 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 *##script:inject(bab-defuser.js)
 
 ||*.livechatinc.com/tracking.js$script
-
 # Block spotify stuff from last.fm
 ||*spotify*$domain=last.fm,important
 
