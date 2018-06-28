@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2018-03-20
+! Last Modified: 2018-06-28
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -49,3 +49,19 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 *##script:inject(bab-defuser.js)
 
 ||*.livechatinc.com/tracking.js$script
+# Block spotify stuff from last.fm
+||*spotify*$domain=last.fm,important
+
+# Bunch of ad-prodiders found on last.fm
+||evidon.com^$third-party
+||imrworldwide.com^$third-party
+||searchlinks.com^$third-party
+||taboola.com^$third-party
+||qualtrics.com^$third-party
+||scorecardresearch.com^$third-party
+||indexww.com^$third-party
+||tiqcdn.com$third-party
+||agkn.comhird-party
+/adscores/
+/g.pixel^
+/taboola$script,important
