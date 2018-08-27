@@ -71,4 +71,7 @@ My list of assorted filters (2018-08-05)
 * [lists/Google-Inbox-Pixelblock.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt): Blocks some known pixel.gif-trackers from Google Inbox. From a Chrome ext (2017-03-04)
 * [lists/Abine-DNT.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Abine-DNT.txt) -> A list from the Abine Inc. Do-Not-Track plugin (2016-09-17)
 
-See also https://wally3k.github.io/
+See also:
+https://wally3k.github.io/
+https://threatfeeds.io/
+
