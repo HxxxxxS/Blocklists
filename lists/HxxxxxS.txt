@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2018-08-05
+! Last Modified: 2018-08-28
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -66,3 +66,49 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 /g.pixel^
 /taboola$script,important
 ##script:contains(doubleclick)
+
+||ga_gtag.js
+
+0.0.0.0 buysellads.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 conduit.com
+0.0.0.0 connect.decknetwork.net
+0.0.0.0 doubleclick.com
+0.0.0.0 doubleclick.net
+0.0.0.0 google-analytics.de
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 intellitxt.com
+0.0.0.0 ivwbox.de
+0.0.0.0 chartbeat.com
+0.0.0.0 googletagservices.com
+0.0.0.0 mpnrs.com
+0.0.0.0 nuggad.net
+0.0.0.0 wt-safetag.com
+0.0.0.0 yieldlab.net
+0.0.0.0 visualrevenue.com
+0.0.0.0 stroeerdigitalmedia.de
+0.0.0.0 oadts.com
+0.0.0.0 chartbeat.com
+0.0.0.0 abtasty.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 smartredirect.de
+0.0.0.0 mc.yandex.ru
+0.0.0.0 fullstory.com
+0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 ws.sessioncam.com
+0.0.0.0 userreplay.de
+0.0.0.0 script.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 clicktale.de
+0.0.0.0 smartlook.de
+0.0.0.0 dezibelinsight.net
+0.0.0.0 quantummetric.com
+0.0.0.0 inspectlet.de
+0.0.0.0 mouseflow.de
+0.0.0.0 logrocket.de
+0.0.0.0 salemove.de
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 luckyorange.com
+0.0.0.0 VWO.COM
