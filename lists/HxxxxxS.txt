@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2018-08-28
+! Last Modified: 2019-05-15
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -112,3 +112,27 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 luckyorange.com
 0.0.0.0 VWO.COM
+
+# https://krebsonsecurity.com/2019/04/wipro-intruders-targeted-other-major-it-firms/
+0.0.0.0 securemail.pcm.com.internal-message.app
+0.0.0.0 secure.wipro.com.internal-message.app
+0.0.0.0 securemail.wipro.com.internal-message.app
+0.0.0.0 secure.elavon.com.internal-message.app
+0.0.0.0 securemail.slalom.com.internal-message.app
+0.0.0.0 securemail.avanade.com.internal-message.app
+0.0.0.0 securemail.infosys.com.internal-message.app
+0.0.0.0 securemail.searshc.com.internal-message.app
+0.0.0.0 securemail.capgemini.com.internal-message.app
+0.0.0.0 securemail.cognizant.com.internal-message.app
+0.0.0.0 secure.rackspace.com.internal-message.app
+0.0.0.0 securemail.virginpulse.com.internal-message.app
+0.0.0.0 secure.expediagroup.com.internal-message.app
+0.0.0.0 securemail.greendotcorp.com.internal-message.app
+0.0.0.0 secure.bridge2solutions.com.internal-message.app
+0.0.0.0 ns1.internal-message.app
+0.0.0.0 ns2.internal-message.app
+0.0.0.0 mail.internal-message.app
+0.0.0.0 ns3.microsoftonline-secure-login.com
+0.0.0.0 ns4.microsoftonline-secure-login.com
+0.0.0.0 tashabsolutions.xyz
+0.0.0.0 www.tashabsolutions.xyz
