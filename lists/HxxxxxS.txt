@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2019-05-15
+! Last Modified: 2019-06-098
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -136,3 +136,5 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 0.0.0.0 ns4.microsoftonline-secure-login.com
 0.0.0.0 tashabsolutions.xyz
 0.0.0.0 www.tashabsolutions.xyz
+
+www.theverge.com###privacy-consent
