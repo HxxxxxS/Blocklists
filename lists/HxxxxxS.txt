@@ -138,3 +138,4 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 0.0.0.0 www.tashabsolutions.xyz
 
 www.theverge.com###privacy-consent
+www.atlasobscura.com###cookie-consent-modal
