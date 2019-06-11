@@ -19,6 +19,7 @@ My curation of uBlock blocklist
 * https://easylist-downloads.adblockplus.org/bitblock.txt
 * https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt
 * https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
+* https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts
 * https://hosts-file.net/ats.txt
 * https://hosts-file.net/emd.txt
 * https://hosts-file.net/grm.txt
@@ -32,12 +33,20 @@ My curation of uBlock blocklist
 * https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 * https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 * https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
+* https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 * https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
 * https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 * https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
 * https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
 * https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
+* https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 * https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+* https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 * https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt
 * https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 * https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
@@ -61,6 +70,7 @@ My curation of uBlock blocklist
 * https://www.fanboy.co.nz/r/fanboy-ultimate.txt
 * https://www.hostsfile.org/Downloads/hosts.txt
 * https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/
+* https://www.malwaredomainlist.com/hostslist/hosts.txt
 * https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 ## Custom:
