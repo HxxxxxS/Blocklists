@@ -20,7 +20,7 @@ My curation of uBlock blocklist
 * https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt
 * https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
 * https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts
-* https://hosts-file.net/ats.txt
+* https://hosts-file.net/ad_servers.txt
 * https://hosts-file.net/emd.txt
 * https://hosts-file.net/grm.txt
 * https://hosts-file.net/hjk.txt
@@ -46,7 +46,6 @@ My curation of uBlock blocklist
 * https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 * https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 * https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
-* https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 * https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt
 * https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 * https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
