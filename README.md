@@ -11,10 +11,11 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://adguard.com/en/filter-rules.html?id=5
 * https://adguard.com/en/filter-rules.html?id=6
 * https://adguard.com/en/filter-rules.html?id=8
-* https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/all.php.txt
-* https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt
-* https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/hosts.txt
-* https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/all.php.txt
+* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/dom-bl-base.txt
+* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/hosts.txt
+* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/hosts.txt
+* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 * https://cybercrime-tracker.net/all.php
 * https://easylist-downloads.adblockplus.org/adwarefilters.txt
 * https://easylist-downloads.adblockplus.org/bitblock.txt
