@@ -14,7 +14,6 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/all.php.txt
 * https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/dom-bl-base.txt
 * https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/hosts.txt
-* https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/hosts.txt
 * https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 * https://cybercrime-tracker.net/all.php
 * https://easylist-downloads.adblockplus.org/adwarefilters.txt
