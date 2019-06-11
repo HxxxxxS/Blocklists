@@ -2,7 +2,6 @@
 My curation of uBlock blocklist 
 
 ## Suggested 3rd-party filter lists(Alphabetic order):
-Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/list-of-lists.txt)
 * https://adaway.org/hosts.txt
 * https://adguard.com/en/filter-rules.html?id=12
 * https://adguard.com/en/filter-rules.html?id=15
