@@ -20,9 +20,12 @@ Copy-paste-able list [here](https://github.com/HxxxxxS/Blocklists/raw/master/lis
 * https://easylist-downloads.adblockplus.org/bitblock.txt
 * https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt
 * https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
+* https://hosts-file.net/ats.txt
 * https://hosts-file.net/emd.txt
-* https://hosts-file.net/exp.txt
 * https://hosts-file.net/grm.txt
+* https://hosts-file.net/hjk.txt
+* https://hosts-file.net/psh.txt
+* https://hosts-file.net/pup.txt
 * https://hostsfile.mine.nu/hosts0.txt
 * https://mirror1.malwaredomains.com/files/immortal_domains.txt
 * https://openphish.com/feed.txt
