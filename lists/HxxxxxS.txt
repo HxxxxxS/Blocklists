@@ -139,3 +139,7 @@ www.dagbladet.no##a[href^="http://www.dagbladet.no/pluss/"]
 
 www.theverge.com###privacy-consent
 www.atlasobscura.com###cookie-consent-modal
+www.bloomberg.com###paywall-banner
+
+||www.softwareadvice.com
+||www.kqzyfj.com
