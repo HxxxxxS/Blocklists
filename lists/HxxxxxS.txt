@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2019-06-098
+! Last Modified: 2019-08-04
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -143,3 +143,8 @@ www.bloomberg.com###paywall-banner
 
 ||www.softwareadvice.com
 ||www.kqzyfj.com
+
+||truste.com
+||trustarc.com
+
+||googletagservices.com
