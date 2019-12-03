@@ -74,7 +74,7 @@ My curation of uBlock blocklist
 
 ## Custom:
 These are not included in the above list.
-* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2019-08-04)
+* [lists/HxxxxxS.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/HxxxxxS.txt): My list of assorted filters (2019-12-03)
 * [lists/Google-Inbox-Pixelblock.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Google-Inbox-Pixelblock.txt): Blocks some known pixel.gif-trackers from Google Inbox. From a Chrome ext (2017-03-04)
 * [lists/Abine-DNT.txt](https://github.com/HxxxxxS/Blocklists/raw/master/lists/Abine-DNT.txt) -> A list from the Abine Inc. Do-Not-Track plugin (2016-09-17)
 
