@@ -1,5 +1,5 @@
 ! Title: HxxxxxS' Assorted Filters 
-! Last Modified: 2019-08-04
+! Last Modified: 2019-12-03
 ! Origin: https://github.com/HxxxxxS/Blocklists
 ! Homepage: https://github.com/HxxxxxS/Blocklists
 ! Update: https://github.com/HxxxxxS/Blocklists/lists/HxxxxxS.txt
@@ -148,3 +148,6 @@ www.bloomberg.com###paywall-banner
 ||trustarc.com
 
 ||googletagservices.com
+
+# Removes every popup and button mentioning Subscribe
+www.newyorker.com##div[data-cm-unit="show-failsafe"]
